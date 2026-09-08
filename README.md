@@ -32,7 +32,23 @@ The project demonstrates algorithmic thinking and efficient task management thro
 ## ▶️ How to Run
 
 1. Install Python.
-2. Install Streamlit:
+2. Install Streamlit.
 
-```bash
-pip install streamlit
+    pip install streamlit
+
+3. Run the application.
+
+    streamlit run app_new.py
+
+## 📂 Project Files
+
+- `app_new.py` – Main Python source code
+- `README.md` – Project documentation
+
+## 🎯 Project Objective
+
+The objective of this project is to develop a simple task management application while applying programming and algorithmic concepts learned in DAA.
+
+---
+
+**DAA Project – To-Do List Application**
